@@ -1,12 +1,21 @@
-# data_board_cv
+---------------------------------
+
+# Multi colour board using cv2
+
+* Created a project where one can draw on board with fingertips using handTracking, while using two fingers pen colour can be changed.
 
 
-## Steps
+### STEP involved in making the project
 
-Step1 -> imort images , cv start fps , 
+> Step1 -> created background on canva, imported images , cv start fps 
 
-Step2 -> find landmarks and 
+> Step2 -> find landmarks
 
-Step3 -> Check fingers up {BOTH => Selection mode }
+> Step3 -> Check fingers up {BOTH => Selection mode }
 
-Step4 -> If index up => Drawing Mode
+> Step4 -> If index up => Drawing Mode
+
+
+
+
+
